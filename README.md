@@ -5,7 +5,7 @@ C&I 연구실 논문 세미나 발표 자료 모음입니다.
 ## 📚 발표 목록
 
 | 날짜 | 논문 |
-|------|------|--------|
+|------|------|
 | 2024.09.11 | [Learning Dynamics of LLM Finetuning](./2024-09/09-11_Learning-Dynamics-of-LLM-Finetuning/) |
 | 2024.09.25 | [HealthGPT: A Medical Large Vision-Language Model](./2024-09/09-25_HealthGPT/) |
 | 2024.10.10 | [On the Empirical Complexity of Reasoning and Planning in LLMs](./2024-10/10-10_Reasoning-and-Planning-in-LLMs/) |
